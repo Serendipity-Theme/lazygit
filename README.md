@@ -20,4 +20,4 @@ Available files: `lazygit-midnight.yml`, `lazygit-morning.yml`, `lazygit-sunset.
 
 ## Created by
 
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+By [Micheal Andreuzza](https://michaelandreuzza.com/) at [Lexington Themes](https://lexingtonthemes.com/)
