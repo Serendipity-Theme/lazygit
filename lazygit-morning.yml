@@ -1,0 +1,26 @@
+# Serendipity Serendipity Morning
+theme:
+  activeBorderColor:
+    - "#e58678"
+    - bold
+  inactiveBorderColor:
+    - "#6288d8"
+  searchingActiveBorderColor:
+    - "#c25a4d"
+    - bold
+  optionsTextColor:
+    - "#505575"
+  selectedLineBgColor:
+    - "#5a567018"
+  cherryPickedCommitFgColor:
+    - "#505575"
+  cherryPickedCommitBgColor:
+    - "#c25a4d"
+  markedBaseCommitFgColor:
+    - "#c25a4d"
+  markedBaseCommitBgColor:
+    - "#6288d8"
+  unstagedChangesColor:
+    - "#505575"
+  defaultFgColor:
+    - "#3f4363"
